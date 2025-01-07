@@ -28,3 +28,26 @@
 2025-January-07-14-28-58, (Tansform) 불필요한 주석 제거
 2025-January-07-14-28-58, (Tansform) 데이터 단위 변경
 2025-January-07-14-28-58, (Load) 변환된 데이터 Load
+2025-January-07-17-30-45, 웹에서 HTTP응답 받음
+2025-January-07-17-30-45, (Extract) raw gdp 데이터 추출
+2025-January-07-17-30-45, (Extract) raw region 데이터 추출
+2025-January-07-17-30-45, raw 데이터 로드
+2025-January-07-17-30-45, (Tansform) 데이터 결측치 처리
+2025-January-07-17-30-45, (Tansform) 불필요한 주석 제거
+2025-January-07-17-30-45, (Tansform) 데이터 단위 변경
+2025-January-07-17-30-45, (Load) 변환된 데이터 Load
+2025-January-07-17-32-45, 웹에서 HTTP응답 받음
+2025-January-07-17-32-46, (Extract) raw gdp 데이터 추출
+2025-January-07-17-32-46, (Extract) raw region 데이터 추출
+2025-January-07-17-32-46, raw 데이터 로드
+2025-January-07-17-32-46, (Tansform) 데이터 결측치 처리
+2025-January-07-17-32-46, (Tansform) 불필요한 주석 제거
+2025-January-07-17-32-46, (Tansform) 데이터 단위 변경
+2025-January-07-17-32-49, 웹에서 HTTP응답 받음
+2025-January-07-17-32-49, (Extract) raw gdp 데이터 추출
+2025-January-07-17-32-49, (Extract) raw region 데이터 추출
+2025-January-07-17-32-49, raw 데이터 로드
+2025-January-07-17-32-49, (Tansform) 데이터 결측치 처리
+2025-January-07-17-32-49, (Tansform) 불필요한 주석 제거
+2025-January-07-17-32-49, (Tansform) 데이터 단위 변경
+2025-January-07-17-32-49, (Load) 변환된 데이터 Load
