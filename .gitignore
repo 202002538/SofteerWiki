@@ -164,3 +164,5 @@ missions/W2/data/korean_stopwords.txt
 
 missions/W1/M1/mtcars.csv
 missions/W1/M3/region.csv
+
+.DS_Store
