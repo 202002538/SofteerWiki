@@ -169,4 +169,8 @@ missions/W3/M4/training.1600000.processed.noemoticon.csv
 missions/W3/M5/ratings.csv
 missions/W3/M6/All_Beauty.jsonl
 
+missions/W5/M1/dataset/
+missions/W5/M2/dataset/
+
+
 .DS_Store
